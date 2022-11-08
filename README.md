@@ -11,7 +11,7 @@
 - MVC의 초기 구축을 통해서 유저의 니즈를 빠르게 파악하여 빠른 확장을 도모함.
 - MVC는 리소스가 적게드는 장점이 있음.
 
-## 백서
+## 백서📜
 
 [하브루타 DAO 백서 바로가기](https://endurable-dodo-552.notion.site/Havruta-DAO-White-Paper-d7fe0d07b63f49cf9ddea3e4cea9a4ff)
 
